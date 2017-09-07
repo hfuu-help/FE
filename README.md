@@ -24,7 +24,7 @@ js程序设计:链接：http://pan.baidu.com/s/1c2tfaWo 密码：53dl
 [github](http://www.github.com/) | 基于git的源码托管，交流平台   
 [掘金](https://juejin.im/timeline/frontend) | 国内比较火的技术交流平台   
 [知乎专栏](https://zhuanlan.zhihu.com/) | 搜索前端的专栏   
-
+[EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md) | 大而全的资料。不保证质量。
 ## React
 [官网](https://facebook.github.io/react/) | 最权威，最新的技术。   
 [中文版教程](https://doc.react-china.org/react/) | 说实话，翻译的不好，不过值得肯定  
@@ -40,4 +40,5 @@ hfuuss
 # 更新日志
 2017年9月3日：创建项目    
 2017年9月5日：增加 常用链接 React Nodejs 等资料    
-2017年9月6日：增加 ppt---《重新认识FE-byhfuus》
+2017年9月6日：增加 ppt---《重新认识FE-byhfuus》   
+2017年9月7日：增加EbookFoundation
