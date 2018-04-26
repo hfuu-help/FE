@@ -35,10 +35,11 @@ js程序设计:链接：http://pan.baidu.com/s/1c2tfaWo 密码：53dl
 [cnnodejs](https://cnodejs.org/) | 氛围很好的论坛，里面有很多入门教程   
 [egg](https://eggjs.org/) | 阿里出品，基于koa2的一套企业级web框架
 # 负责人
-hfuuss
+[jiuyue](https://i.getshell.cn)
 
 # 更新日志
 2017年9月3日：创建项目    
 2017年9月5日：增加 常用链接 React Nodejs 等资料    
 2017年9月6日：增加 ppt---《重新认识FE-byhfuus》   
-2017年9月7日：增加EbookFoundation
+2017年9月7日：增加EbookFoundation     
+2018年4月26日：增加pdf文件夹，增加了很多js相关书籍。
